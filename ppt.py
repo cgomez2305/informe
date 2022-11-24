@@ -52,7 +52,7 @@ while a>0:
 
     elif opcion==3 and lista[2]:
         print("Has empatado,resultado bot(tijera) vs tu(tijera)")
-        print("Llevas ",cont," puntos")   
+        print("Llevas ",cont," puntos")
 
     terminar=int(input('''Deseas seguir jugando pulsa: 1 
 Deseas acabar el juego pulsa:2
