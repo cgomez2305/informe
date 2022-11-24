@@ -1,0 +1,346 @@
+1,¿Qué es la programación?
+La programación informática es el arte del proceso por el cual se limpia, codifica, traza y protege el código fuente de programas computacionales, en otras palabras, es indicarle a la computadora lo que tiene que hacer. 
+La programación informática es una de las habilidades esenciales que aprendes cuando estudias informática.
+Detrás de todos los programas informáticos que conocemos y usamos de manera cotidiana para facilitarnos diversas actividades de nuestro día con día, existe todo un proceso para poderlos crear. Este proceso es conocido como programación, conozcamos un poco más sobre lo que conlleva este proceso.
+
+2. ¿Qué es el desarrollo web
+
+Desarrollo web significa construir y mantener sitios web; es el trabajo que tiene lugar en un segundo plano y que permite que una web tenga una apariencia impecable, un funcionamiento rápido y un buen desempeño para permitir la mejor experiencia de usuario. Los desarrolladores web son como duendes con poderes: nunca los ves, pero son los que hacen que todo esté bien y funcione de manera rápida y eficiente.
+
+3. ¿Qué debe aprender un programador?
+
+Una característica esencial que se necesita para ser programador, es el deseo inquebrantable de aprender, además de las herramientas que necesita en un lugar disponible, las cuales son: una computadora, el programa que elija aprender y conexión a internet.
+
+4. ¿Qué trabajos realiza un programador?
+
+Escribir y probar código para nuevos programas
+Los programadores trabajan en estrecha colaboración con los desarrolladores web y de software para escribir código para nuevas aplicaciones móviles o programas informáticos. En algunos casos, los programadores pueden tener un rol similar al de los diseñadores web, creando el aspecto y la funcionalidad de un nuevo programa de software. Escribir código nuevo a menudo implica mucho ensayo y error.
+Actualizar programas
+Los programadores también crean e instalan actualizaciones para el desarrollo de software de programas existentes. Una actualización puede incluir una corrección de errores o una funcionalidad mejorada para mejorar la experiencia del usuario. Según la complejidad de la actualización, este tipo de proyectos pueden tardar desde unos días hasta varios meses.
+Identificar y corregir errores de código
+A diario, los programadores pueden ayudar en la resolución de problemas de partes de un sitio web o programa de computadora que no funcionan correctamente. Los problemas son el resultado de un error en el código y un programador puede identificar y corregir el error de forma rápida.
+Reescribir programas para diferentes sistemas operativos
+En muchas ocasiones, los programadores tienen que reescribir el código en diferentes lenguajes para que los programas y aplicaciones puedan ser compatibles con diferentes sistemas operativos. Por ejemplo, los programas de Windows y OS X se codifican de forma diferente. Algunos programadores están capacitados para escribir nuevas aplicaciones en código SaaS, que funciona en ambos sistemas operativos.
+Proteger los programas de ciberamenazas
+Muchos programadores se especializan en el campo de la ciberseguridad ayudando a identificar software malicioso y a reparar software que podría ser vulnerable a posibles ataques. Este tipo de programadores puede escribir código que evite violaciones de seguridad y fugas de datos.
+
+5. ¿Qué es una roadmap en desarrollo?
+
+La expresión Roadmap (traducción de hoja de ruta) se utiliza para dar a conocer el ‘trazado del camino’ por medio del cual vamos a llegar del estado actual al estado futuro. Es decir, la secuencia de actividades o camino de evolución que nos llevará al estado futuro”.(Sensagent)
+Según esta definición de hoja de ruta, para posicionarse de forma estratégica, las organizaciones necesitan saber exáctamente dónde están y, sobre todo, hacia dónde se dirigen. Es ahí donde entra a jugar su rol el roadmap.
+¿Ya te haces una idea de qué es un roadmap? El roadmap recoge la secuencia general de pasos a desarrollar para alcanzar los objetivos de la marca. Se trata de una herramienta operativa con mayor flexibilidad y dinamismo que el tradicional plan de marketing. 
+
+6. ¿Qué debe aprender un desarrollador web?
+
+1. Aprender HTML
+Si quieres ser desarrollador web es importante dominar HTML correctamente.
+HTML es un lenguaje de marcas que nos permite definir la estructura de una pagina web, mediante etiquetas de marcado la podemos definir, entonces, es la base de cualquier pagina web.
+Si no sabes HTML no puedes seguir avanzando en el mundo de la programación web, es fundamental aprender esto.
+2. Aprender CSS
+Lo siguiente es aprender a darle estilo a la página web con CSS(Hojas de estilo en cascada), que es el lenguaje que nos va a permitir darle una apariencia a la web.
+Es importante saber estilizar una web y el siguiente paso natural después de aprender HTML
+3. Aprender JavaScript
+Una vez que ya sabemos los dos puntos anteriores lo siguiente que aprender para ser desarrollador web sería JavaScript, que es un lenguaje en auge porque están saliendo tecnologías como NodeJS, Angular, y muchas más que nos permiten hacer cosas increíbles en las webs.
+Con JavaScript nos permitirá dotar de interactividad a la web y todos los sitios web de internet lo utilizan.
+4. Para de estudiar y ponte a practicar
+¿Por qué digo esto? Porque ahora llega el momento de dominar lo aprendido y unir todas las piezas del puzzle. Lo que debes hacer es maquetar una web completa y darle un poco de interactividad con JavaScript. En el vídeo de arriba te doy algunos tips interesantes para este paso.
+5. Aprende bases de datos y SQL
+Ahora toca aprender algo de backend y antes de aprender ningún otro lenguaje de programación es importante dominar las bases de datos y el lenguaje SQL.
+Asi que para y aprende esto bien, yo elegiría MySQL, aprendería a diseñar una base de datos y aprenderia a hacer todos los tipos de consulta que hay en SQL.
+Este es un punto critico en el que mucha gente falla.
+6. Aprende un lenguaje de back-end(PHP, NodeJS)
+En este paso debes aprender un lenguaje de backend como PHP que nos va a permitir que nuestra web sea dinámica e interactue con bases de datos. En el vídeo de arriba te doy varios trucos interesantes 
+
+7. Dar el salto profesional aprendiendo: Symfony, Angular, NodeJS, Bootstrap, Less
+Y por último te recomiendo aprender los frameworks y tecnologias punteras que yo enseño en mis cursos online de desarrollo web y que el mercado profesional más está solicitando a nivel mundial.
+Pues estos serían los pasos más importantes para convertirte en programador web y ya sabemos a grandes rasgos que aprender para ser desarrollador web.
+Nos seguimos leyendo!! No te olvides de suscribirte a mi canal de YouTube y seguir mis cursos de programación web que te servirán mucho para tu carrera como desarrollador.
+
+7. ¿Qué trabajos realiza un desarrollador web?
+
+    1. Reunirse con los clientes para discutir las necesidades técnicas y el diseño de un sitio web. 
+    2. Crear y probar aplicaciones de un sitio web.
+    3. Escribir código para el sitio web, utilizando lenguajes de programación como HTML o XML. 
+    4. Trabajar con otros miembros del equipo para determinar cómo llevar a cabo el proyecto.
+    5. Integrar gráficos, audio y video en el sitio web.
+    6. Crear funcionalidades específicas según los requerimientos del proyecto. 
+    7. Supervisar la velocidad y capacidad de la web.
+
+8. ¿Qué es FRONTEND?
+
+El frontend es la parte del desarrollo web que se dedica a la parte frontal de un sitio web, en pocas palabras del diseño de un sitio web, desde la estructura del sitio hasta los estilos como colores, fondos, tamaños hasta llegar a las animaciones y efectos.
+Es esa parte de la página con la que interaccionan los usuarios de la misma, es todo el código que se ejecuta en el navegador de un usuario, al que se le denomina una aplicación cliente, es decir, todo lo que el visitante ve y experimenta de forma directa.
+
+9. ¿Qué es BACKEND
+
+Mientras que el frontend es la capa de programación ejecutada en el navegador del usuario, el backend procesa la información que alimentará el frontend de datos.
+Es la capa de acceso a los datos, ya sea de un software o de un dispositivo en general, es la lógica tecnológica que hace que una página web funcione, lo que queda oculto a ojos del visitante.
+El backend de una solución, determina qué tan bien se ejecutará la aplicación y qué experiencia, positiva o negativa, obtendrá el usuario de su uso.
+
+10.¿Qué es el nivel Junior en desarrollo?
+
+Un Junior Developer o Programador Junior es un programador o desarrollador de software de nivel básico que trabaja en un equipo de desarrollo. Se encarga de ayudar al equipo con todos las tareas de codificación y diseño de software. A modo simplificado podemos decir que un Junior Developer escribe y mantiene el código de aplicaciones informáticas. 
+Principalmente, lo qué hace un Programador Junior va desde aprender la base del código, escribir o desarrollar código (básico), corregir los errores que puedan ir surgiendo, hasta recopilar datos de usuarios. Un Junior Developer también tiene que atender a las solicitudes del Senior Developer, dando soporte a todas las funciones de diseño de software y codificación.
+
+11.¿Qué es el nivel Senior en desarrollo?
+
+1. Experiencia laboral programando
+Obviamente, este es el primer requisito. ¿Desde hace cuánto estás haciendo este trabajo?
+Un programador de nivel junior es todo aquel que tiene menos de dos años de experiencia. Si está por encima de este tiempo, entonces se considerará semi senior. Por su parte, cuando alcance los dos dígitos de experiencia, es decir, a partir de 10 años, entonces, será catalogado como un programador senior. Por supuesto, dependiendo de cuán duro trabaje o cuán rápido aprenda, los plazos podrían acortarse y podría alcanzar ese título mucho antes.
+Como regla general:
+    • Programador junior: Menos de dos años de experiencia
+    • Programador semi senior: De 2 a 9 años de experiencia
+    • Programador senior: A partir de 9 años de experiencia
+Podemos ilustrar la experiencia con un ejemplo. Un programador junior dirá “¡Encontré el error!”, es decir, pensará que lo resolvió todo simplemente porque identificó un solo problema y todo parece funcionar de nuevo. El programador senior entiende mejor la situación. Él dirá “Encontré un error” (y ya conozco la solución).
+2. Conocimientos técnicos: Herramientas, lenguajes de programación, etc.
+En segundo lugar, se espera que los programadores senior dispongan de una serie de habilidades que les permitan identificar cuáles son las herramientas más apropiadas. Ellos observan una tarea y valoran las fortalezas y debilidades de los diferentes tipos de lenguajes, marcos, etc. Esto les ayuda a escoger la mejor herramienta para dicho proyecto.
+Sin embargo, no se puede esperar que un programador junior haga eso. Esto no significa que sean malos en su trabajo, simplemente que aún no han adquirido esos conocimientos. Por tanto, no necesariamente elegirán la mejor herramienta: escogerán la que conocen, incluso aunque sea peor que otra solución.
+    • Programador junior: Trabaja con las herramientas, lenguajes que conoce
+    • Programador senior: Trabajará con la mejor herramienta para cada proyecto
+3. Enfoque del proyecto
+Los programadores senior abordan los proyectos de una manera planificada y organizada. Estos piensan en la automatización, en el mantenimiento a largo plazo y en otras fórmulas para resolver el problema adicionales a las que plantearon. Pueden ofrecer esas alternativas y explicar por qué consideran que son mejores.
+Un programador junior abordará la tarea y el método sin tener ninguna duda. Con casi toda probabilidad no considerará las implicaciones futuras de su trabajo. Es de esperar que complete la tarea, sí, pero ni más ni menos.
+    • Programador junior: Solución inmediata
+    • Programador senior: Elaboración de procesos y facilita el seguimiento
+
+
+12.¿Qué es el lenguaje HTML?
+
+HTML es el lenguaje con el que se define el contenido de las páginas web. Básicamente se trata de un conjunto de etiquetas que sirven para definir el texto y otros elementos que compondrán una página web, como imágenes, listas, vídeos, etc.
+
+13.¿Qué es el lenguaje CSS?
+
+Como hemos mencionado, el CSS es un lenguaje informático que especifica cómo se presentan los documentos a los usuarios: cómo se diseñan, compaginan, etc. Un documento suele ser un archivo de texto estructurado con un lenguaje de marcado: HTML es el más común, pero también existen otros como SVG o XML.
+
+14.¿Qué es SASS?
+
+Sass es un procesador CSS.
+Un preprocesador CSS es una herramienta que nos permite generar, de manera automática, hojas de estilo, añadiéndoles características que no tiene CSS, y que son propias de los lenguajes de programación, como pueden ser variables, funciones, selectores anidados, herencia, etcétera.
+Estas características de los procesadores nos permiten, además, que el CSS que se genera sea más fácil de mantener y más reutilizable.
+
+15.¿Qué es BEM?
+
+BEM (Block, Element, Modifier o Bloque, Elemento, Modificador) es una metodología ágil de desarrollo basada en componentes. Fue creada por la empresa Yandex para desarrollar sitios en poco tiempo y con un soporte de largo plazo.
+El objetivo final de BEM es dividir la interfaz de usuario en bloques independientes para crear componentes escalables y reutilizables. Propone un estilo descriptivo para nombrar cada una de las clases a utilizar, permitiendo así crear un estructura de código consistente.
+
+16.¿Qué es el lenguaje JavaScript?
+
+JavaScript es un lenguaje de programación o de secuencias de comandos que te permite implementar funciones complejas en páginas web, cada vez que una página web hace algo más que sentarse allí y mostrar información estática para que la veas, muestra oportunas actualizaciones de contenido, mapas interactivos, animación de Gráficos 2D/3D, desplazamiento de máquinas reproductoras de vídeo, etc., puedes apostar que probablemente JavaScript está involucrado. Es la tercera capa del pastel de las tecnologías web estándar, dos de las cuales (HTML y CSS) hemos cubierto con mucho más detalle en otras partes del Área de aprendizaje.
+
+17.¿Qué es el lenguaje TypeScript?
+
+TypeScript es un lenguaje de programación libre y de código abierto desarrollado y mantenido por Microsoft. Es un superconjunto de JavaScript, que esencialmente añade tipos estáticos y objetos basados en clases.
+
+18.¿Qué es el lenguaje Python?
+
+Python es un lenguaje de programación ampliamente utilizado en las aplicaciones web, el desarrollo de software, la ciencia de datos y el machine learning (ML). Los desarrolladores utilizan Python porque es eficiente y fácil de aprender, además de que se puede ejecutar en muchas plataformas diferentes.
+
+19.¿Qué es el lenguaje PHP?
+
+PHP es un lenguaje de programación destinado a desarrollar aplicaciones para la web y crear páginas web, favoreciendo la conexión entre los servidores y la interfaz de usuario. Entre los factores que hicieron que PHP se volviera tan popular, se destaca el hecho de que es de código abierto.
+
+20.¿Qué es el lenguaje Mysql?
+
+MySQL es un sistema de gestión de bases de datos relacionales (RDBMS) de código abierto respaldado por Oracle y basado en el lenguaje de consulta estructurado (SQL). MySQL funciona prácticamente en todas las plataformas, incluyendo Linux, UNIX y Windows.
+
+21.¿Qué es una Base de Datos?
+
+Una base de datos es una herramienta para recopilar y organizar información. Las bases de datos pueden almacenar información sobre personas, productos, pedidos u otras cosas. Muchas bases de datos comienzan como una lista en una hoja de cálculo o en un programa de procesamiento de texto.
+
+22.¿Qué es NoSQL?
+
+Las bases de datos NoSQL están diseñadas específicamente para modelos de datos específicos y tienen esquemas flexibles para crear aplicaciones modernas. Las bases de datos NoSQL son ampliamente reconocidas porque son fáciles de desarrollar, por su funcionalidad y el rendimiento a escala. Esta página incluye recursos que lo ayudan a comprender mejor las bases de datos NoSQL y comenzar a usarlas.
+
+23.¿Qué es el lenguaje JAVA?
+
+
+
+24.¿Qué es un framework?
+25.¿Qué es una librería?
+
+24.¿Qué es un framework?
+
+Un framework es un esquema o marco de trabajo que ofrece una estructura base para elaborar un proyecto con objetivos específicos, una especie de plantilla que sirve como punto de partida para la organización y desarrollo de software.
+
+25.¿Qué es una librería?
+
+Las librerías de programación son conjuntos de archivos de código que se utilizan para desarrollar software. Su objetivo es facilitar la programación, al proporcionar funcionalidades comunes, que ya han sido resueltas previamente por otros programadores.
+
+26.¿Qué es BootStrap?
+
+Bootstrap es un framework CSS y Javascript diseñado para la creación de interfaces limpias y con un diseño responsive. Además, ofrece un amplio abanico de herramientas y funciones, de manera que los usuarios pueden crear prácticamente cualquier tipo de sitio web haciendo uso de los mismos.
+
+27.¿Qué es Tailwind?
+
+Tailwind, en pocas palabras, es un framework CSS que da prioridad a la utilidad sobre el propio estilo, pero además a diferencia de otros frameworks CSS como Bootstrap o Bulma, Tailwind no provee una serie de componentes predefinidos.
+
+28.¿Qué es Laravel?
+
+Laravel es un framework PHP gratis y de código abierto que brinda un conjunto de herramientas y recursos para crear aplicaciones modernas. Posee un ecosistema integral que combina funciones integradas y una variedad de paquetes y extensiones compatibles.
+
+29.¿Qué es NodeJS?
+
+
+
+30.¿Qué es VUE.JS
+
+
+30.¿Qué es VUE.JS
+
+Además de ser progresivo, VueJS trabaja con JavaScript y funciona no solo para crear aplicaciones de una sola página, si no también para diseñar interfaces de usuarios, además de ser usado para aplicaciones de escritorio y móviles cuando se le combina con el framework Electron.
+
+31.¿Qué es REACT?
+
+
+
+
+
+32.¿Qué es ANGULAR?
+
+Angular es un framework de ingeniería de software de código abierto mantenido por Google, que sirve para desarrollar aplicaciones web de estilo Single Page Application (SPA) y Progressive Web App (PWA). Sirve tanto para versiones móviles como de escritorio.
+
+33.¿Qué es una API?
+
+Una API o interfaz de programación de aplicaciones es un conjunto de definiciones y protocolos que se usa para diseñar e integrar el software de las aplicaciones.
+
+34.¿Cuánto tiempo tarda una persona en aprender un lenguaje de
+programación?
+
+No hay una respuesta definitiva a la pregunta de cuánto se tarda en aprender a programar. Cualquier número puede ser fácilmente cuestionado por los demás. Si lo buscas en Google te dirá de 3 a 6 meses como respuesta, pero depende del sitio web de donde se recopila la información.
+Hay diversas maneras de estudiar programación, así que echemos un vistazo a las opciones más recurrentes y cuánto tiempo suele llevar aprender a programar con cada una.
+
+
+35.¿Qué es un STACK en desarrollo?
+
+Qué son los stacks de desarrollo
+Los stacks son paquetes de software que comprenden el back-end de un sitio, incluyendo el sistema operativo, los servidores web, las API, los marcos de programación, etc.
+Al poder agruparse todos estos componentes, se vuelven más fáciles de descargar e implementar simultáneamente. Los componentes de un stack pueden variar desde generales, por ejemplo, el sistema operativo Mac OS X, hasta muy específicos, como un marco PHP en particular.
+Tu elección de stack puede estar determinada por la necesidad de escalabilidad vertical, o porque tu equipo de desarrollo esté especialmente capacitado con un lenguaje de programación, pero a continuación veremos la manera de elegir el componente correcto para tu proyecto y otros factores importantes a la hora de elegir o cambiar un stack.
+
+36.¿Qué es un desarrollador FULLSTACK?
+
+¿Qué es un desarrollador Full-Stack? El desarrollador Full-Stack es un programador informático que controla el diseño en Front-End y Back-End de aplicaciones web, software y sitios web.
+
+37.¿Qué es un paradigma de programación?
+
+Un paradigma de programación es una manera o estilo de programación de software. Existen diferentes formas de diseñar un lenguaje de programación y varios modos de trabajar para obtener los resultados que necesitan los programadores.
+
+38.¿Cuáles son los lenguajes de programación más demandados en el
+mercado Colombiano?
+
+De acuerdo al índice TIOBE los lenguajes de programación más utilizados son los siguientes:
+    • Java.
+    • C.
+    • Python.
+    • C++
+    • C#
+    • Visual Basic . NET.
+    • JavaScript.
+    • PHP.
+
+
+39.¿Cuáles son los lenguajes de programación más demandados en el
+mercado Internacional?
+
+A continuación, te contamos cuáles son los lenguajes de programación más populares, útiles y prometedores en el mercado y también los más fáciles de aprender.
+    • JavaScript. JavaScript es el lenguaje de codificación más común en uso hoy en día en todo el mundo. ...
+    • Python. ...
+    • Java. ...
+    • HTML. ...
+    • CSS. ...
+    • SQL.
+
+40.¿Cuánto puede ganar un desarrollador FrontEnd?
+
+    • un nivel de entrada el salario de un desarrollador de primera clase está por aquí $61,000 por año
+    • un desarrollador con 1-4 años de experiencia gana alrededor de $73,000 por año
+    • un desarrollador de la mitad de su carrera (5-9 años de experiencia) recibe una compensación total media de $84,000
+    • una experimentada (10-19 años) gana $89,000 por año en promedio
+    • un desarrollador de la parte delantera en su carrera tardía (Más de 20 años de experiencia) gana $93,000 en promedio
+
+41.¿Cuánto puede ganar un desarrollador BackEnd?
+
+Al igual que con el front end, los salarios de los ingenieros de software del back end dependen de la experiencia del desarrollador.
+PayScale informa de eso:
+    • un desarrollador de nivel básico en los EE.UU. suele ganar alrededor de $61.042 por año.
+    • un ingeniero de back-end al principio de su carrera (1-4 años de experiencia) puede esperar un salario de $75.000 al año.
+    • un desarrollador de back end con 5-9 años de experiencia gana una media de $95.000 al año.
+
+42.¿Cuáles son los requisitos para ser desarrollador FrontEnd?
+
+Todos los desarrolladores frontend deben tener conocimientos de HTML, CSS y JavaScript. Esos tres lenguajes son la base de casi todo lo que harás. También necesitarás otras habilidades, pero el mismo conjunto de habilidades requerido variará de un trabajo a otro
+
+43.¿Cuáles son los requisitos para ser desarrollador BackEnd?
+
+
+
+
+44.¿Qué es el control de versiones?
+45.¿Qué es GIT?
+
+46.¿Qué es GITHUB?
+
+GitHub es un sitio "social coding". Te permite subir repositorios de código para almacenarlo en el sistema de control de versiones Git.
+
+47.¿Qué es una rama de desarrollo?
+
+
+48.¿Cuáles son las ramas del desarrollo?
+
+49.¿Qué es NPM?
+
+¿Qué es npm y para qué sirve? npm (Node Package Manager) es, como su propio nombre indica, el gestor de paquetes, módulos o librerías que nos proporciona Nodejs.
+
+50.¿Qué es Webpack?
+
+
+51.¿Qué es Prettiers?
+
+Prettier es una herramienta que nos permite diseñar el formato del código que estamos escribiendo. En inglés, este tipo de herramientas se conocen como code formatter.2
+
+52.¿Qué es EsLint?
+
+
+
+
+53.¿Qué es MVC?
+
+54.¿Qué es la metodología SCRUM?
+
+¿Qué es Scrum? La metodología Scrum permite abordar proyectos complejos desarrollados en entornos dinámicos y cambiantes de un modo flexible. Está basada en entregas parciales y regulares del producto final en base al valor que ofrecen a los clientes.
+
+55.¿Qué es la metodología AGILE?
+
+La metodología Agile se usa en el desarrollo de software y otros proyectos de alto rendimiento; se centra en la implementación rápida de un equipo eficiente y flexible para planear el flujo de trabajo. Agile brinda la capacidad de elegir la mejor opción en cada situación sin comprometer el proyecto.
+
+56.¿Qué es TESTING?
+
+
+
+
+
+57.¿Qué son los patrones de diseño?
+
+Un patrón de diseño es básicamente una forma reutilizable de resolver un problema común en el desarrollo de software. Si la forma de solucionar este problema se puede extraer, explicar y reutilizar en múltiples ámbitos y en muchas ocasiones, en ese caso nos hemos encontrado con un patrón de diseño.
+
+58.¿Qué es el diseño UML?
+
+UML define un conjunto estándar de diagramas de creación de modelos para todas las fases de desarrollo de un sistema de software. Esta información describe el modelo de relación de entidad del diseño de base de datos. Otro modelo que se puede utilizar es Unified Modeling Language (UML).
+
+59.¿Cuáles son los roles en el desarrollo de software?
+
+Se necesitan más que desarrolladores e ingenieros para formar un equipo de desarrollo de software eficaz. Se necesitan muchos roles en el ciclo de vida del desarrollo de software, y el equipo ideal está formado por los siguientes roles:
+    • Dueño del producto
+    • Project manager
+    • Diseñadores UX y UI
+    • Analista comercial
+    • Desarrolladores de software
+    • Líder de equipo y de tecnología (o team lead y tech lead)
+    • Scrum master
+
+60.¿Cuál es el camino que deseas seguir? ¿Desarrollador FrontEnd o
+Desarrollador BackEnd?
+
+FRONT END
+
+
